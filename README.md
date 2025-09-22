@@ -2,27 +2,25 @@
 
 这块板是之前做雏雁项目的时候找别人定做的，原理图和pcb均不是自己动手画的，但所有材料采购和焊接都是我本人一手承包的。烙铁焊油镊子风枪来焊的这块板
 
-![微信图片_20250922150534](C:\Users\Walnut\Desktop\微信图片_20250922150534.jpg)
+![8channel](.\8channel.jpg)
 
 图中大部分是0603和0402，少部分因为我一时傻呗买错成0805（就是特别大的那几坨），还有更少的一部分（左上角晶振周边）是从手机主板上拆下来的小电容，当时弄飞了不少。
 
 原理图和pcb
 
-![image-20250922150853110](C:\Users\Walnut\AppData\Roaming\Typora\typora-user-images\image-20250922150853110.png)
+![8channel-pcb](.\8channel-pcb.png)
 
-![image-20250922150912552](C:\Users\Walnut\AppData\Roaming\Typora\typora-user-images\image-20250922150912552.png)
+![8channel-P1](.\8channel-P1.png)
 
-![image-20250922150930607](C:\Users\Walnut\AppData\Roaming\Typora\typora-user-images\image-20250922150930607.png)
+![8channel-P2](.\8channel-P2.png)
 
 去年参加电赛期间，我是队里包揽所有硬件活的人，也自己画过板和一些简单的封装：
 
-![image-20250922151218200](C:\Users\Walnut\AppData\Roaming\Typora\typora-user-images\image-20250922151218200.png)
+![tb6612-pcb1](.\tb6612-pcb1.png)
 
-![屏幕截图 2025-09-22 151202](C:\Users\Walnut\Pictures\Screenshots\屏幕截图 2025-09-22 151202.png)
+![tb6612-P0](.\tb6612-P0.png)
 
-![image-20250922151302397](C:\Users\Walnut\AppData\Roaming\Typora\typora-user-images\image-20250922151302397.png)
-
-![image-20250922151359042](C:\Users\Walnut\AppData\Roaming\Typora\typora-user-images\image-20250922151359042.png)
+![tb6612](.\tb6612.png)
 
 ### 为什么要这样设计？
 
